@@ -1,12 +1,12 @@
 # 🚀 Apollo 11 Lunar Lander Simulator
 
-A physics-based simulation of the Apollo 11 lunar module descent, built in C++. Guide the lander safely to the Moon's surface by managing thrust, angle, and velocity — just like the real mission.
+A physics-based simulation of the Apollo 11 lunar module descent, built in C++. Guide the lander safely to the Moon's surface by managing thrust, angle, and velocity  just like the real mission.
 
 ---
 
 ## 📖 Description
 
-This project simulates the final descent phase of the Apollo 11 lunar module. The player controls the lander's thrust and orientation while realistic physics — including lunar gravity, acceleration, and momentum — work against them. The goal is to touch down on the designated landing pad at a safe speed and angle. Land too fast or at the wrong angle and the mission fails.
+This project simulates the final descent phase of the Apollo 11 lunar module. The player controls the lander's thrust and orientation while realistic physics  including lunar gravity, acceleration, and momentum  work against them. The goal is to touch down on the designated landing pad at a safe speed and angle. Land too fast or at the wrong angle and the mission fails.
 
 The simulation features a starfield background, procedurally generated lunar terrain, a landing platform, and a live HUD displaying speed, fuel, and altitude. The project was built with an emphasis on clean object-oriented design and thorough unit testing.
 
@@ -79,7 +79,7 @@ The simulation features a starfield background, procedurally generated lunar ter
 
 ## ✅ Running Tests
 
-Unit tests are included for all core physics components. To run them, build and execute the project — the test suite runs automatically on startup and reports results to the console.
+Unit tests are included for all core physics components. To run them, build and execute the project  the test suite runs automatically on startup and reports results to the console.
 
 ---
 
